@@ -1,4 +1,5 @@
 # lapor_vue
+Assignment management platform.
 
 ## Project setup
 ```
